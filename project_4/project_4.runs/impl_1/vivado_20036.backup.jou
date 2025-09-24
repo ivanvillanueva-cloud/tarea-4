@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Sep 23 21:45:06 2025
+# Process ID         : 20036
+# Current directory  : C:/Users/ivanv/Documents/Barbosa/project_4/project_4.runs/impl_1
+# Command line       : vivado.exe -log tarea4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tarea4.tcl -notrace
+# Log file           : C:/Users/ivanv/Documents/Barbosa/project_4/project_4.runs/impl_1/tarea4.vdi
+# Journal file       : C:/Users/ivanv/Documents/Barbosa/project_4/project_4.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-EPPMQSB
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+# CPU Frequency      : 2400 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 7979 MB
+# Swap memory        : 8355 MB
+# Total Virtual      : 16334 MB
+# Available Virtual  : 3066 MB
+#-----------------------------------------------------------
+source tarea4.tcl -notrace
